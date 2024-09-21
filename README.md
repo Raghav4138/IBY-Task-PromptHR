@@ -24,5 +24,8 @@ The project allows for flexibility in model selection and implementation. You ca
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/candidate-evaluation.git
-   cd candidate-evaluation
+   git clone "https://github.com/yourusername/candidate-evaluation.git](https://github.com/Raghav4138/ImBesideYou-Task.git"
+
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
